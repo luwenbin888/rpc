@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hadooprpc" />
+        <module name="protocolbuffer" />
         <module name="socket" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="hadooprpc" target="1.5" />
+      <module name="protocolbuffer" target="1.5" />
       <module name="rpc" target="1.5" />
       <module name="socket" target="1.5" />
     </bytecodeTargetLevel>
