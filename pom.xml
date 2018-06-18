@@ -12,6 +12,7 @@
         <module>socket</module>
         <module>hadooprpc</module>
         <module>protocolbuffer</module>
+        <module>utils</module>
     </modules>
 
 

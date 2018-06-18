@@ -9,6 +9,7 @@
         <module name="hadooprpc" />
         <module name="protocolbuffer" />
         <module name="socket" />
+        <module name="utils" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
@@ -16,6 +17,7 @@
       <module name="protocolbuffer" target="1.5" />
       <module name="rpc" target="1.5" />
       <module name="socket" target="1.5" />
+      <module name="utils" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
