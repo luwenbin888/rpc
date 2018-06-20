@@ -13,6 +13,7 @@
         <module>hadooprpc</module>
         <module>protocolbuffer</module>
         <module>utils</module>
+        <module>avro</module>
     </modules>
 
 
